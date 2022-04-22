@@ -1,0 +1,38 @@
+* {
+    font-family: 'Roboto Mono', monospace;
+}
+
+body {
+    background-color: black;
+}
+
+h1 {
+    padding-top: 3%;
+    padding-left: 3%;
+    font-size: 4.5rem;
+    color: white;
+}
+
+h2 {
+    padding-left: 3%;
+    font-size: 2.75rem;
+    color: rgb(179, 24, 24);
+}
+
+.code {
+    position: absolute;
+    bottom: 25px;
+    left: 1%;
+    height: auto;
+    width: 8%;
+    max-width: 150px;
+}
+
+.binary-map {
+    position: absolute;
+    right: 0;
+    height: 70%;
+    right: 5%;
+    top: 15%;
+    max-width: 700px;
+}
