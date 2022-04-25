@@ -64,6 +64,11 @@ nav ul li a {
     color: rgb(179, 24, 24);
 }
 
-a:hover {
+nav a:hover {
     border-bottom: 2px solid white;
+}
+
+a, a:hover, a:focus, a:active {
+    text-decoration: none;
+    color: rgb(179, 24, 24);
 }
