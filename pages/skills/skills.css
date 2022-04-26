@@ -39,7 +39,7 @@ h2 {
 }
 
 .skill-container {
-    padding-top: 5%;
+    padding-top: 16%;
     min-height: 20rem;
     text-align: center;
     background-color: white;
@@ -48,7 +48,7 @@ h2 {
 }
 
 .certified-skill-container {
-    padding-top: 5%;
+    padding-top: 16%;
     min-height: 20rem;
     text-align: center;
     background-color: gold;
@@ -57,7 +57,7 @@ h2 {
 }
 
 .skill-title {
-    font-size: 1.5rem;
+    font-size: 4rem;
 }
 
 .navbar {
