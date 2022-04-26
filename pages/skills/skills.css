@@ -60,6 +60,10 @@ h2 {
     font-size: 4rem;
 }
 
+.language-title {
+    font-size: 2.6rem;
+}
+
 .navbar {
     background-color: black;
     height: 80px;
