@@ -1,0 +1,75 @@
+* {
+    font-family: 'Roboto Mono', monospace;
+}
+
+body {
+    background-color: black;
+}
+
+h1 {
+    font-size: 3rem;
+    color: white;
+    text-align: center;
+}
+
+p {
+    padding-top: 10%;
+    padding-left: 7%;
+    padding-right: 2%;
+    font-weight: 500;
+    font-size: 1.5rem;
+    color: rgb(179, 24, 24);
+    float: left;
+}
+
+.me {
+    border-radius: 40%;
+    padding-left: 3%;
+    padding-right: 10%;
+    width: 90%;
+}
+
+.teaching-icon {
+    border-radius: 40%;
+    width: 100%;
+    padding-top: 10%;
+    padding-left: 20%;
+    padding-bottom: 10%;
+}
+
+.navbar {
+    background-color: black;
+    height: 80px;
+    width: 100%;
+    z-index: 100;
+    opacity: 0.9;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline-block;
+    margin: 1.5vw;
+    font-size: 1.3rem;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: rgb(179, 24, 24);
+}
+
+a:hover {
+    border-bottom: 2px solid white;
+}
+
+a, a:hover, a:focus, a:active {
+    text-decoration: none;
+    color: rgb(179, 24, 24);
+}
