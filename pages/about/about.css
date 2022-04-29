@@ -25,17 +25,19 @@ p {
 
 .me {
     border-radius: 40%;
-    padding-left: 3%;
+    padding-left: 15%;
     padding-right: 10%;
-    width: 90%;
+    width: 100%;
 }
 
 .teaching-icon {
     border-radius: 40%;
     width: 100%;
     padding-top: 10%;
-    padding-left: 20%;
+    margin-left: 10%;
+    padding-right: 17%;
     padding-bottom: 10%;
+
 }
 
 .navbar {
