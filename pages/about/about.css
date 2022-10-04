@@ -24,11 +24,11 @@ p {
 }
 
 .me {
-    border-radius: 40%;
+    border-radius: 75%;
     padding-left: 15%;
     padding-right: 10%;
     width: 100%;
-    height: 92%;
+    height: 100%;
 }
 
 .teaching-icon {
